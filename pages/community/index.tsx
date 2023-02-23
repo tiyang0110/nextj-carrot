@@ -32,7 +32,7 @@ const Community: NextPage = () => {
             </div>
           </div>
         ))}
-        <AddButton />
+        <AddButton link="/community/write" />
       </div>
     </Layout>
   );

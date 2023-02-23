@@ -2,5 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/profile": "pages/profile.js"
+  "/community/[id]": "pages/community/[id].js",
+  "/live/[id]": "pages/live/[id].js",
+  "/community": "pages/community.js",
+  "/chats/[id]": "pages/chats/[id].js"
 }

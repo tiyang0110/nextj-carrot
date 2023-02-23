@@ -54,7 +54,7 @@ const Home: NextPage = () => {
             </div>
           </div>
         ))}
-        <AddButton />
+        <AddButton link="/items/upload" />
       </div>
     </Layout>
   );
